@@ -1,6 +1,6 @@
 # Cavity Parametric Optimisation and ML Surrogate Analysis
 
-This repository contains a clean Python pipeline for analysing COMSOL parametric sweep data from the cavity optimisation study.
+This repository contains a clean Python pipeline for analysing COMSOL parametric sweep data for a slotline metallic cavity optimisation study.
 
 The code:
 
