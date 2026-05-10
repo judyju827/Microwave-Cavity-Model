@@ -1,0 +1,2 @@
+parameter,frequency_GHz,IntW_J,MaxW_J_m3,GainW_J,GainV_m3,Vm_eff_m3
+0.001,6.46,1.0e-11,0.004,1.0e-11,1.8e-9,1.8e-9
